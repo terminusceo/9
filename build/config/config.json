@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE26900e161a008b3F46Bc9738Dd4C4D5141097fA",
+  "SCAN_LINK": "https://etherscan.io/address/0xE26900e161a008b3F46Bc9738Dd4C4D5141097fA",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "PPLARTSHFT",
+  "SYMBOL": "PPL",
+  "MAX_SUPPLY": 888,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.07500000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pplartshft",
+  "SHOW_BACKGROUND": true
+}
