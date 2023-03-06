@@ -255,7 +255,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 100,
                 fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               PPLARTSHFT
@@ -266,7 +266,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 40,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               Public Mint Mar 06, 9:00 AM ET
@@ -281,7 +281,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 40,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               {truncate(
@@ -303,7 +303,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 40,
                 //fontWeight: "bold",
-                color: "var(--primary)",
+                color: "var(--accent)",
               }}
             >
               {data.totalSupply}/{CONFIG.MAX_SUPPLY}
@@ -313,7 +313,7 @@ function App() {
 
 
             <s.TextTitle
-              style={{ textAlign: "center", color: "var(--primary)", fontSize: 40 }}
+              style={{ textAlign: "center", color: "var(--accent)", fontSize: 40 }}
             >
               Price: {CONFIG.DISPLAY_COST}{" "}
               {CONFIG.NETWORK.SYMBOL}
